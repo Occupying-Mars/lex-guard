@@ -1,0 +1,31 @@
+cloudbase ltd saas subscription agreement
+
+this subscription agreement ("agreement") is effective february 1, 2023 between cloudbase ltd ("provider") and the customer ("customer").
+
+1. services
+provider grants access to the cloudbase saas platform for cloud infrastructure management.
+
+2. term
+the term begins on february 1, 2023 and ends on march 15, 2026 unless renewed by mutual agreement.
+
+3. data residency
+provider stores and processes customer data within the european union or other jurisdictions with adequacy decisions.
+
+4. data retention
+provider retains personal data only as long as necessary to provide the services and will delete within 30 days after termination unless required by law.
+
+5. breach notification
+provider will notify customer of any personal data breach within 72 hours of becoming aware of it.
+
+6. liability
+provider’s total liability is capped at usd $250,000.
+
+7. termination
+either party may terminate with sixty (60) days’ prior written notice.
+
+8. governing law
+this agreement is governed by the laws of ireland.
+
+signatures
+cloudbase ltd
+customer: ____________________________

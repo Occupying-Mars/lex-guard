@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  font-family: 'Space Grotesk', system-ui, -apple-system, sans-serif;
+  @apply bg-paper text-ink;
+}
+
+h1,
+h2,
+h3,
+.h-serif {
+  font-family: 'IBM Plex Serif', ui-serif, Georgia, serif;
+}
+
+.gradient-veil {
+  background: radial-gradient(1200px 600px at 10% 10%, rgba(196, 107, 60, 0.15), transparent 60%),
+    radial-gradient(900px 500px at 90% 20%, rgba(15, 118, 110, 0.15), transparent 60%),
+    linear-gradient(120deg, rgba(244, 184, 96, 0.08), rgba(11, 15, 26, 0.02));
+}
+
+.card {
+  @apply rounded-2xl border border-ink/10 bg-white/85 shadow-sm backdrop-blur;
+}
+
+.kpi {
+  @apply rounded-2xl border border-ink/10 bg-white/80 px-5 py-4;
+}

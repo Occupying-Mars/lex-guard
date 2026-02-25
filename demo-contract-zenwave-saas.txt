@@ -1,0 +1,21 @@
+zenwave analytics saas agreement
+
+this saas agreement ("agreement") is between zenwave analytics, inc. ("provider") and the customer ("customer") and is effective march 1, 2024. the term continues through march 1, 2027 unless terminated.
+
+1. services. provider grants customer access to the zenwave saas platform for analytics and reporting.
+
+2. data processing and residency. provider may store and process customer data in any jurisdiction worldwide, including the united states and other regions, without restriction. customer data may be shared with third-party analytics partners for product improvement without explicit opt-in consent.
+
+3. data retention. provider may retain personal data indefinitely after termination for business analytics.
+
+4. breach notification. provider will notify customer of a personal data breach within a commercially reasonable timeframe.
+
+5. liability. provider's total liability is capped at usd $5,000 for all claims.
+
+6. termination. either party may terminate with 7 days' prior written notice.
+
+7. governing law. this agreement is governed by the laws of the state of delaware, usa.
+
+signatures
+provider: zenwave analytics, inc.
+customer: ____________________________

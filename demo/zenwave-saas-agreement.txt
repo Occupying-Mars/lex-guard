@@ -1,0 +1,34 @@
+zenwave analytics saas master subscription agreement
+
+this master subscription agreement ("agreement") is entered into by and between zenwave analytics, inc. ("provider") and the customer ("customer") and is effective march 1, 2024. this agreement governs customer’s access to the zenwave analytics platform.
+
+1. services
+provider grants customer a non-exclusive right to access the zenwave analytics platform for internal business purposes. customer is responsible for all activity under its accounts.
+
+2. term and renewal
+the term begins on march 1, 2024 and continues until march 1, 2027. the agreement auto-renews for successive one-year terms unless either party provides written notice of non-renewal at least seven (7) days before the end of the then-current term.
+
+3. data processing and residency
+provider may store and process customer data in any jurisdiction worldwide, including the united states, and may transfer data across borders without restriction. provider may use third-party analytics partners to improve the service. customer data may be shared with such partners without explicit opt-in consent from data subjects.
+
+4. data retention
+provider may retain personal data indefinitely after termination for analytics, product improvement, and business intelligence purposes.
+
+5. security and breach notification
+provider will notify customer of any personal data breach within a commercially reasonable timeframe. no specific timeline is committed.
+
+6. compliance
+customer is solely responsible for determining whether the services meet its regulatory compliance requirements. provider does not warrant compliance with any specific law or regulation.
+
+7. liability cap
+provider’s total liability under this agreement shall not exceed usd $5,000 in the aggregate for all claims, whether in contract or tort.
+
+8. termination
+either party may terminate this agreement with seven (7) days’ prior written notice. upon termination, access will be revoked.
+
+9. governing law
+this agreement is governed by the laws of the state of delaware, usa.
+
+signatures
+provider: zenwave analytics, inc.
+customer: ____________________________

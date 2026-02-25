@@ -1,0 +1,31 @@
+logicore solutions master services agreement
+
+this master services agreement ("msa") is effective january 1, 2024 between logicore solutions ltd. ("provider") and the customer ("customer").
+
+1. scope of services
+provider will deliver logistics software and related professional services as described in statements of work.
+
+2. data processing
+provider may process personal data in any country without restriction and without limitation to jurisdictions deemed adequate under eu law. no data processing agreement is required.
+
+3. data retention
+provider may retain customer personal data indefinitely after termination for operational and archival purposes.
+
+4. breach notification
+provider is not obligated to notify customer of data breaches within any specific timeframe.
+
+5. security
+provider will implement reasonable security measures in its discretion.
+
+6. termination
+either party may terminate upon ninety (90) days’ written notice.
+
+7. liability
+provider’s total liability is capped at usd $500,000.
+
+8. governing law
+this msa is governed by the laws of england and wales.
+
+signatures
+logicore solutions ltd.
+customer: ____________________________

@@ -1,0 +1,28 @@
+aurora data vault mutual non-disclosure agreement
+
+this mutual non-disclosure agreement ("agreement") is entered into by and between aurora data vault gmbh ("aurora") and the receiving party ("recipient") effective june 1, 2024.
+
+1. definition of confidential information
+confidential information means any non-public information disclosed by either party, whether in written, oral, or electronic form, and marked or identified as confidential. confidential information does not include information that is publicly available without breach of this agreement.
+
+2. purpose
+the parties wish to evaluate a potential business relationship. confidential information will be used solely for this purpose.
+
+3. obligations
+recipient shall protect confidential information using at least the same degree of care it uses for its own confidential information, and not less than a reasonable standard of care. recipient shall not disclose confidential information to any third party without the disclosing party’s written consent.
+
+4. term and survival
+this agreement remains in effect for two (2) years. confidentiality obligations survive for five (5) years after termination.
+
+5. data residency
+any personal data processed under this agreement will be stored and processed within the european union.
+
+6. remedies
+the parties agree that the sole and exclusive remedy for breach of this agreement shall be monetary damages. the parties waive the right to seek injunctive or equitable relief.
+
+7. governing law
+this agreement is governed by the laws of the federal republic of germany.
+
+signatures
+aurora data vault gmbh
+recipient: ____________________________
